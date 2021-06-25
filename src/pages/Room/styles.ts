@@ -103,3 +103,8 @@ export const Main = styled.main`
     }
   }
 `;
+
+
+export const QuestionList = styled.div`
+  margin-top: 24px;
+`;
