@@ -54,19 +54,20 @@ https://www.figma.com/file/X2kr02oTxzklXbsDbllXuM/Letmeask-(Copy)
 
 # Firebase Deploy
 
+## Install
 npm install -g firebase-tools
 
-# Login com firebase
+## Login com firebase
 
 firebase login
 
-# Inite Project
+## Inite Project
 
 firebase init
 
-# Deploy
+## Deploy
 
-yarn build && firebase deploy
+yarn build && firebase deploy    
 
 
 # :memo: License
