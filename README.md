@@ -1,7 +1,6 @@
 <h1 align="center">
     <img alt="" src="./.github/logo.png" />
     <br>
-    Leatmeask
 </h1>
 
 <p align="center">
